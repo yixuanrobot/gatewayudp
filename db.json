@@ -3,5 +3,5 @@
 	"dbport":"3306",
 	"dbname":"gamelog",
 	"dbuser":"root",
-	"dbpassword":"glj00441155"
+	"dbpassword":"root"
 }
